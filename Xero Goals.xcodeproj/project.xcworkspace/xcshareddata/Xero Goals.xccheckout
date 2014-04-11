@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>85323EEA-EFC1-4EBA-9520-7CC21EF8A8DA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Xero Goals</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DD4A8786-623A-4863-8DF7-A529EDBA1A6E</key>
+		<string>ssh://github.com/JuanArreguin/XeroGoals.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Xero Goals.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DD4A8786-623A-4863-8DF7-A529EDBA1A6E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/JuanArreguin/XeroGoals.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DD4A8786-623A-4863-8DF7-A529EDBA1A6E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DD4A8786-623A-4863-8DF7-A529EDBA1A6E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>XeroGoals</string>
+		</dict>
+	</array>
+</dict>
+</plist>
